@@ -2,7 +2,7 @@
   "site": {
     "name": "Mary’s Coffee House Paraguay",
     "tagline": "The first specialty coffee house ☕️",
-    "description": "Specialty coffee in Asunción. Barista training, courses and consulting — a classic experience with a vintage spirit.",
+    "description": "Specialty coffee in Asunción. Barista training, courses and consulting — a classic experience with a harmonious spirit.",
     "address": "Lillo 1178 & Malutín, Asunción, Paraguay",
     "hours": {
       "weekdays": "Monday - Saturday: 9:00 AM - 8:00 PM",
@@ -27,7 +27,7 @@
     "hero": {
       "title": "Mary’s Coffee House",
       "subtitle": "Specialty coffee with a classic soul",
-      "text": "A place to return to the essentials: great coffee, thoughtful service, and a daily ritual with a vintage touch.",
+      "text": "A place to return to the essentials: great coffee, thoughtful service, and a daily ritual with a harmonious touch.",
       "cta": { "label": "View Menu", "href": "menu" },
       "image": "marys_hero"
     },

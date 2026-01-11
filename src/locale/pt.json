@@ -2,7 +2,7 @@
   "site": {
     "name": "Mary’s Coffee House Paraguay",
     "tagline": "A primeira casa de café especial ☕️",
-    "description": "Café especial em Assunção. Cursos de barismo e consultoria — uma experiência clássica com espírito vintage.",
+    "description": "Café especial em Assunção. Cursos de barismo e consultoria — uma experiência clássica com espírito harmonioso.",
     "address": "Lillo 1178 c/ Malutín, Assunção, Paraguai",
     "hours": {
       "weekdays": "Segunda - Sábado: 9:00 AM - 8:00 PM",
@@ -27,7 +27,7 @@
     "hero": {
       "title": "Mary’s Coffee House",
       "subtitle": "Café especial com alma clássica",
-      "text": "Um lugar para voltar ao essencial: bom café, atendimento cuidadoso e o ritual de todo dia com um toque vintage.",
+      "text": "Um lugar para voltar ao essencial: bom café, atendimento cuidadoso e o ritual de todo dia com um toque harmonioso.",
       "cta": { "label": "Ver o Menu", "href": "menu" },
       "image": "marys_hero"
     },

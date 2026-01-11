@@ -160,6 +160,6 @@ Ingeniera Informática · Web Performance · UX · SEO
 ## ☕ Mary’s Coffee House Paraguay
 
 Primera casa de café de especialidad ☕️
-Café de especialidad en Asunción. Barismo, cursos y consultoría: una experiencia clásica con espíritu vintage.
+Café de especialidad en Asunción. Barismo, cursos y consultoría: una experiencia clásica con espíritu armónico.
 
 ---
