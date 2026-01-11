@@ -1,0 +1,200 @@
+{
+  "site": {
+    "name": "Mary’s Coffee House Paraguay",
+    "tagline": "A primeira casa de café especial ☕️",
+    "description": "Café especial em Assunção. Cursos de barismo e consultoria — uma experiência clássica com espírito vintage.",
+    "address": "Lillo 1178 c/ Malutín, Assunção, Paraguai",
+    "hours": {
+      "weekdays": "Segunda - Sábado: 9:00 AM - 8:00 PM",
+      "weekends": "Domingo: Fechado"
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/maryscoffeehousepy/",
+      "facebook": "https://www.facebook.com/maryscoffeehouse/",
+      "whatsapp": "https://wa.me/595981774979"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/BxHeHSe9yP3vUbYR8",
+    "cloudinaryFolder": "v1768168603"
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "products": "Produtos",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "home": {
+    "hero": {
+      "title": "Mary’s Coffee House",
+      "subtitle": "Café especial com alma clássica",
+      "text": "Um lugar para voltar ao essencial: bom café, atendimento cuidadoso e o ritual de todo dia com um toque vintage.",
+      "cta": { "label": "Ver o Menu", "href": "menu" },
+      "image": "marys_hero"
+    },
+    "features": {
+      "title": "Por que escolher a Mary’s",
+      "list": [
+        {
+          "icon": "coffee",
+          "title": "Café especial",
+          "text": "Extrações cuidadas e bebidas clássicas com qualidade consistente."
+        },
+        {
+          "icon": "croissant",
+          "title": "Combinações perfeitas",
+          "text": "Opções doces e salgadas para acompanhar cada xícara — do café da manhã ao lanche."
+        },
+        {
+          "icon": "heart",
+          "title": "Cursos e consultoria",
+          "text": "Treinamento barista e consultoria para elevar o padrão do café."
+        }
+      ]
+    },
+    "gallery": [
+      "marys_coffee_01",
+      "marys_pastry_01",
+      "marys_table_01",
+      "marys_interior_01",
+      "marys_coffee_02"
+    ],
+    "visit": {
+      "title": "Visite-nos",
+      "text": "Lillo 1178 c/ Malutín — Assunção. Venha pelo café, fique pelo momento.",
+      "button": "Como chegar"
+    }
+  },
+  "menuPage": {
+    "title": "Nosso Menu",
+    "subtitle": "Clássicos que nunca falham",
+    "sections": [
+      {
+        "title": "Café",
+        "items": [
+          {
+            "name": "Espresso",
+            "desc": "Curto, intenso, clássico.",
+            "price": 15000
+          },
+          {
+            "name": "Cappuccino",
+            "desc": "Espresso com leite e espuma.",
+            "price": 18000
+          },
+          { "name": "Latte", "desc": "Suave, cremoso e longo.", "price": 20000 }
+        ]
+      },
+      {
+        "title": "Gelados",
+        "items": [
+          {
+            "name": "Iced Latte",
+            "desc": "Latte gelado, perfeito para dias quentes.",
+            "price": 22000
+          },
+          {
+            "name": "Cold Brew",
+            "desc": "Suave, notas doces e baixa acidez.",
+            "price": 25000
+          }
+        ]
+      }
+    ]
+  },
+  "productsPage": {
+    "title": "Nossos Produtos",
+    "subtitle": "Para acompanhar seu café",
+    "products": [
+      {
+        "id": "cookies-da-casa",
+        "name": "Cookies da casa",
+        "price": 12000,
+        "short": "Crocante por fora, macio por dentro.",
+        "long": "Um clássico para acompanhar espresso, cappuccino ou latte. Perfeito para uma pausa rápida e gostosa.",
+        "images": ["marys_pastry_01", "marys_pastry_02", "marys_coffee_01"]
+      },
+      {
+        "id": "bolo-do-dia",
+        "name": "Bolo do dia",
+        "price": 25000,
+        "short": "Fatia generosa, estilo caseiro.",
+        "long": "Os sabores variam conforme disponibilidade — pergunte a opção de hoje.",
+        "images": ["marys_cake_01", "marys_cake_02", "marys_table_01"]
+      }
+    ]
+  },
+  "aboutPage": {
+    "title": "Nossa História",
+    "subtitle": "Café com legado e técnica",
+    "story": {
+      "image": "marys_interior_01",
+      "paragraphs": [
+        "A Mary’s Coffee House é dedicada ao café especial, com identidade clássica e serviço focado nos detalhes.",
+        "Além de servir café, compartilhamos conhecimento: cursos de barismo e consultoria para quem quer evoluir."
+      ]
+    },
+    "teamTitle": "Nossa Equipe",
+    "teamSubtitle": "Barismo, serviço e paixão",
+    "team": [
+      {
+        "name": "Equipe Mary’s",
+        "role": "Baristas & Atendimento",
+        "bio": "Cuidamos de cada xícara — da extração à experiência completa."
+      }
+    ],
+    "bannerImage": "marys_banner"
+  },
+  "contactPage": {
+    "title": "Fale conosco",
+    "subtitle": "Reservas, cursos e dúvidas",
+    "form": {
+      "name": "Nome",
+      "email": "E-mail",
+      "message": "Mensagem",
+      "sendWhatsapp": "Enviar pelo WhatsApp",
+      "sendEmail": "Enviar por E-mail"
+    },
+    "reviews": {
+      "title": "Avaliações de clientes",
+      "sourceLabel": "Avaliações do Google",
+      "rating": 4.7,
+      "count": 0,
+      "items": [
+        {
+          "author": "Cliente verificado",
+          "rating": 5,
+          "date": "Recente",
+          "text": "Café excelente e atendimento muito cuidadoso. O lugar é clássico e tranquilo."
+        },
+        {
+          "author": "Cliente verificado",
+          "rating": 5,
+          "date": "Recente",
+          "text": "Ótimo ponto em Assunção: bebidas bem feitas e opções gostosas para acompanhar."
+        },
+        {
+          "author": "Cliente verificado",
+          "rating": 4,
+          "date": "Recente",
+          "text": "Café especial muito bom. Recomendo provar os clássicos."
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607.4890921870574!2d-57.5808987245093!3d-25.287766677652805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x945da89fa940e7c1%3A0x6d032695c8dd8179!2sMary&#39;s%20Coffee%20House!5e0!3m2!1ses-419!2spy!4v1768170039973!5m2!1ses-419!2spy",
+      "mapReviewsLink": "https://www.google.com/maps/place/Mary's+Coffee+House/@-25.2877667,-57.5808987,17z/data=!4m8!3m7!1s0x945da89fa940e7c1:0x6d032695c8dd8179!8m2!3d-25.2877667!4d-57.5783238!9m1!1b1!16s%2Fg%2F11c0w12070?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D"
+    }
+  },
+  "seo": {
+    "title": "Café especial em Assunção | Mary’s Coffee House",
+    "description": "Mary’s Coffee House Paraguay: café especial em Assunção, cursos de barismo e consultoria. Visite-nos na Lillo 1178 c/ Malutín.",
+    "keywords": [
+      "café especial",
+      "cafeteria em Assunção",
+      "barismo",
+      "cursos de barismo",
+      "consultoria de café",
+      "Lillo e Malutín",
+      "Paraguai"
+    ],
+    "ogImage": "og.png"
+  }
+}
