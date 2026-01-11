@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import { Locale, locales } from "@/lib/i18n";
 
 function replaceLocaleInPath(pathname: string, nextLocale: Locale) {
-  // Espera pathname tipo: /es/almarreina/...
+  // Espera pathname tipo: /es/cafe/...
   const parts = (pathname || "/").split("/").filter(Boolean);
   if (parts.length === 0) return `/${nextLocale}`;
 

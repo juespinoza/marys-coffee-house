@@ -102,7 +102,7 @@ export function buildMetadata(
 /**
  * (Opcional) helper por página:
  * Si querés títulos específicos por sección:
- * - buildPageTitle("Menú", "Almarreina Coffee Shop") => "Menú | Almarreina Coffee Shop"
+ * - buildPageTitle("Menú", "Mary’s Coffee House Paraguay") => "Menú | Mary’s Coffee House Paraguay"
  */
 export function buildPageTitle(page: string, siteName: string) {
   const p = (page || "").trim();
