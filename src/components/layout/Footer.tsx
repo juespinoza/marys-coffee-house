@@ -134,12 +134,12 @@ export default function Footer({
             <i>
               Desarrollado por{" "}
               <TrackLink
-                href="https://github.com/juespinoza"
+                href="https://www.instagram.com/magnitudvega"
                 target="_blank"
                 eventName="julia_espinoza"
                 className="underline"
               >
-                Julia Espinoza
+                Magnitud Vega
               </TrackLink>
             </i>
           </div>

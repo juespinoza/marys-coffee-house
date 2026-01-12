@@ -102,7 +102,7 @@ El proyecto incluye medición avanzada de eventos:
 - Abrir en Google Maps
 - Footer:
 - Redes sociales
-- Link “Desarrollado por Julia Espinoza”
+- Link “Desarrollado por Magnitud Vega”
 
 Los eventos se disparan **solo desde Client Components**, respetando App Router y evitando errores de build.
 
@@ -146,8 +146,7 @@ NEXT_PUBLIC_CAFE_NAME=cafeName
 ## 👩‍💻 Desarrollo y diseño
 
 Desarrollado por:
-Julia Espinoza
-Ingeniera Informática · Web Performance · UX · SEO
+Magnitud Vega · Web Performance · UX · SEO · Presencia digital
 
 ## 📌 Estado del proyecto
 
